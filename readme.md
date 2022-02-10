@@ -3,6 +3,7 @@
 
 <h3 align="center">Equistitch</h3>
 
+
   <p align="center">
     Equistitch is utility for breaking 360 degree equirectangular panoramas into perspective projected cubemaps, tiles and making the transformation back.
     <br />
@@ -46,6 +47,8 @@
 
 <!-- ABOUT THE PROJECT -->
 ## About The Project
+
+[![Equistitch][cover]](https://emblica.com)
 
 This is small utility tool made to process 360 degree images. It can be used as component of the data pipeline in ML recognition from 360 degree images.
 
@@ -192,3 +195,5 @@ Project Link: [https://github.com/emblica/equistitch](https://github.com/emblica
 [license-url]: https://github.com/emblica/equistitch/blob/master/LICENSE.txt
 [linkedin-shield]: https://img.shields.io/badge/-LinkedIn-black.svg?style=for-the-badge&logo=linkedin&colorB=555
 [linkedin-url]: https://linkedin.com/company/emblica
+
+[cover]: docs/cover.png
